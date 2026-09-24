@@ -23,6 +23,20 @@
   <sub>🐍 The snake eats contribution cells from lower to higher intensity · updated automatically every day</sub>
 </p>
 
+## 🧊 3D Contribution Skyline
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="A 3D isometric contribution calendar" src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>📊 A 3D view of the same contribution history, refreshed automatically.</sub>
+</p>
+
 ## 🚀 Currently
 
 - Exploring artificial intelligence and practical machine-learning projects

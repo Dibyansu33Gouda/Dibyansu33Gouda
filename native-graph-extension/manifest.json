@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Dibyansu 3D Contribution Snake",
+  "version": "1.0.0",
+  "description": "Adds an animated neon 3D snake overlay to a GitHub contribution calendar.",
+  "content_scripts": [
+    {
+      "matches": ["https://github.com/*"],
+      "css": ["styles.css"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
